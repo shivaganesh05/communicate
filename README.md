@@ -1,2 +1,2 @@
-# BasicDemoProject
+# comminicate
 Springboot and Nextjs project
